@@ -36,3 +36,9 @@ void loop(){
     noTone(buzzer);
   }
 }
+
+/*ATENÇÃO!
+Este código foi usado exclusivamene em um projeto de faculdade, no qual montamos o projeto
+do arduíno e apenas modificamos o código conforme a demanda, logo o código em si não é de nossa 
+autoria.
+*/
